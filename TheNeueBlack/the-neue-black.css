@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "TheNeueBlack";
+  src:
+    url("./TheNeue-Black.woff2") format("woff2"),
+    url("./TheNeue-Black.woff") format("woff"),
+    url("./TheNeue-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+.the-neue-black {
+  font-family: "TheNeueBlack";
+}
