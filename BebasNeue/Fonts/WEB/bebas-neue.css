@@ -1,0 +1,26 @@
+/**
+* @license
+*
+* Font Family: Bebas Neue
+* Designed by: Ryoichi Tsunekawa, Dharma Type
+* URL: https://www.fontshare.com/fonts/bebas-neue
+* © 2026 Indian Type Foundry
+*
+* Bebas Neue Regular
+
+*
+*/
+@font-face {
+    font-family: "BebasNeue";
+    src:
+        url("./fonts/BebasNeue-Regular.woff2") format("woff2"),
+        url("./fonts/BebasNeue-Regular.woff") format("woff"),
+        url("./fonts/BebasNeue-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+}
+
+.bebas-neue {
+    font-family: "BebasNeue";
+}
